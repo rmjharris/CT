@@ -1,0 +1,36 @@
+html {
+	height: 100%;
+}
+body {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #3e5c7a;
+    overflow: hidden;
+    position: relative;
+}
+.header {
+	text-align: center;
+}
+h1 {
+	font-size: 20px;
+	text-align: center;
+	color: #ffffff;
+}
+input[type="email"] {
+}
+.useremail {
+	text-align: center;
+}
+.userpass {
+	text-align: center;
+}
+.loginbutton {
+	text-align: center;
+	width: 100%;
+}
+.errorDiv {
+    font-weight: bold;
+    color: red;
+}
